@@ -3,18 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SIT2Team Docs's documentation!
+文档库
 =========================================
 
+简介
+######
+| 本文档库旨在便利学习和工作，为今后新人更快融入公司提供帮助，亦可作为知识储备的工具。
+| 为了今后文档库的正常运作，请文档编辑的作者们和阅读者们务必遵守 `注意事项 <./editor_warning.html>`_ 的规则。
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: 目录
 
+   docs/index
+   editor_warning
+   updates
+   
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
